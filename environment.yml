@@ -8,3 +8,5 @@ dependencies:
   - pip
   - pip:
     - matplotlib
+    - psutil
+    - tqdm
